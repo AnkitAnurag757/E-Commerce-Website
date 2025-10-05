@@ -1,5 +1,5 @@
 import React from "react";
-import womensCollectionImage from "../../assets/womens-collection.png";
+import womensCollectionImage from "../../assets/womens-collection.avif";
 import menscollectionImage from "../../assets/mens-collection1.jpg";
 import { Link } from "react-router-dom";
 
